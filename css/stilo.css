@@ -1,0 +1,13 @@
+body{
+    background-image: url(../img/fondo.gif);
+}
+
+
+
+.titulo{
+    float: left;
+}
+
+.titulo2{
+    float: right;
+}
